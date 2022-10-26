@@ -1,2 +1,2 @@
-# Django-02-Lesson
+# Django-Model_admin
 django 02 lesson 
